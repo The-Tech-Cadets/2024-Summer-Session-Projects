@@ -21,7 +21,7 @@ To contribute, simply create a pull request adding in a resource to the README.m
 
 | Name  | Desc  | Languages/Skills  |
 |-----------|-----------|-----------|
-| Resource | What is this project about? What did it achieve? | Skills involved |
+| Resource | [Emoji Here](https://emojipedia.org/) What is this project about? What did it achieve? | Skills involved |
 
 
 ## Contributors 🫱🏾‍🫲🏻
