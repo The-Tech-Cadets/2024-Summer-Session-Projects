@@ -25,11 +25,9 @@ To contribute, simply create a pull request adding in a resource to the README.m
 
 
 ## Contributors 🫱🏾‍🫲🏻
-Huge thanks to our 2024 Summer Session repo participants!
+Huge thanks to our 2024 Summer Session repo participants! <br>
 <a href="https://github.com/The-Tech-Cadets/2024-Summer-Session-Projects/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=The-Tech-Cadets/2024-Summer-Session-Projects" />
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
 
 
